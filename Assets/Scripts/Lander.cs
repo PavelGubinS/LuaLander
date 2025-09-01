@@ -30,4 +30,17 @@ public class Lander : MonoBehaviour
         }
     }
 
+    private void OnCollisionEnter2D(Collision2D collision2D)
+    {
+        Debug.Log(collision2D.relativeVelocity.magnitude);
+        float softLandingVelocityMagnitude = 4f;
+        if (collision2D.relativeVelocity.magnitude > softLandingVelocityMagnitude)
+        {
+            //Landed too hard!
+            Debug.Log("Landed too hard!");
+            return;
+        }
+        Debug.Log("Successful landing!");
+
+    }
 }
