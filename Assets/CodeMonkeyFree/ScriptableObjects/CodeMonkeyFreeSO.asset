@@ -14,40 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.00
   subtype: lunarLanderFree
-  lastShownTimestamp: 1756694873
+  lastShownTimestamp: 1760104504
   lastUpdateResponse:
     version: 1.00
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1756694873
+  checkedLastUpdateTimestamp: 1760104504
   lastQOTDResponse:
-    questionId: 215
-    questionText: What will happen on January 19, 2038 at 03:14:07?
-    answerA: Armagedon
-    answerB: End of Unix Time
-    answerC: Half-Life 3 release date
-    answerD: 
+    questionId: 230
+    questionText: How should you store the health of each unit in your game?
+    answerA: public int health;
+    answerB: private int health;
+    answerC: public static int health;
+    answerD: private int h;
     answerE: 
-  lastQotdTimestamp: 1756694873
+  lastQotdTimestamp: 1760104504
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/summer2025CodeMonkeyBundle_EndsTomorrow.png
-    topText: All my Courses (and Games) in one Bundle! DEEP DISCOUNT ENDS TOMORROW!
-    topLink: summer2025bundle
-    bottomText: Get my Code Monkey Toolkit and make games BETTER and FASTER! 50%
-      OFF right now!
-    bottomLink: toolkit
-  lastDynamicHeaderTimestamp: 1756694873
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleSep25Synty.png
+    topText: After 1 year there's a new Synty Humble Bundle! DON'T MISS IT!
+    topLink: humblebundle
+    bottomText: My 10+ Years of C# Knowledge in 1 Course!
+    bottomLink: csharpcourse
+  lastDynamicHeaderTimestamp: 1760104504
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1756694873
+  websiteLatestMessageTimestamp: 1760104504
   websiteLatestVideos:
     videos:
-    - youTubeId: FrKLJ1nCsxY
-      title: Indie Dev makes $4 MILLION... then goes broke!
-    - youTubeId: _fymNH4flZE
-      title: TOP 10 NEW Systems and Tools AUGUST 2025! | Unity Asset Store
-    - youTubeId: YCvh88Hg5m8
-      title: TOP 8 QUICK Tips on Game Programming!
-    - youTubeId: Lgmv7PYKka8
-      title: Does this AI FINALLY replace Game Devs? Should YOU worry?
-  websiteLatestVideosTimestamp: 1756694873
+    - youTubeId: iTpoP8M6dxg
+      title: 8 QUICK Unity Tips to make BETTER Games!
+    - youTubeId: RBgFEaRn_jg
+      title: Is YouTube EASY MONEY compared to Game Dev?
+    - youTubeId: Q59s-VS684o
+      title: MASSIVE Unity Security Vulnerability! (but also nothing to worry about)
+    - youTubeId: vhflNElicXU
+      title: Optimization is awesome, but do NOT make this mistake!
+  websiteLatestVideosTimestamp: 1760104504
