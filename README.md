@@ -1,2 +1,2 @@
 # LuaLander
-Project from CodeMonkey
+Project from CodeMonkey, for learning C# and Unity:)
