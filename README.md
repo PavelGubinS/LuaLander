@@ -1,3 +1,3 @@
 # LuaLander
 Project from CodeMonkey, for learning C# and Unity:)
-(Пока не делаю, не институтский проект)
+( Пока не делаю, не институтский проект ).
