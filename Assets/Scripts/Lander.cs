@@ -36,7 +36,7 @@ public class Lander : MonoBehaviour
         float softLandingVelocityMagnitude = 4f;
         if (collision2D.relativeVelocity.magnitude > softLandingVelocityMagnitude)
         {
-            //Landed too hard!
+            //Landed too hard
             Debug.Log("Landed too hard!");
             return;
         }
